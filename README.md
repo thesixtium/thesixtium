@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/Tools-Gimp-informational?style=flat&logo=Gimp&logoColor=white&color=C07EBC)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=C07EBC)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesixtium)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thesixtium&show_icons=true&theme=vue-dark&layout=compact)](https://github.com/PixelPoncho/github-readme-stats)
 
 <p>
   This read me was heavily inspired and borrow from <a href="https://github.com/PixelPoncho">PixelPoncho</a> 
