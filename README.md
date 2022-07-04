@@ -25,6 +25,8 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=C07EBC)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesixtium&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=thesixtium&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thesixtium&langs_count=5&theme=tokyonight)]()
 
 <p>
   This read me was heavily inspired and borrow from <a href="https://github.com/PixelPoncho">PixelPoncho</a> 
